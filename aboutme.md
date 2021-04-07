@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dzedajj
-- 👀 I’m interested in MERN stack, cars, coffee, retro tech as well as embedded systems
-- 🌱 I’m currently learning Mongo
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me jovan.petkovic@protonmail.ch
+- 👀 I’m interested in MERN stack, cars, coffee, retro tech, networking, homelabs as well as embedded systems
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on anything valuable to community/open source
+- 📫 How to reach me jovan.petkovic@protonmail.ch, or jovan.petkovic@bexter.rs
