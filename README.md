@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=64&duration=3500&pause=1000&color=4169e1&center=true&vCenter=true&multiline=true&width=1354&height=128&lines=Hello+world!+Welcome+to+my+profile+I'm+Jovan!)](https://git.io/typing-svg)
 
-<div align="center">
+<!-- <div align="center">
 <img width="auto" height="300px" src="https://jovanpetkovic.com/.netlify/images?url=_astro%2Fmascot.Dm0ZwFW8.webp&w=412&h=605&dpl=0"/>
-</div>
+</div> -->
 
 <h2>What I Do?</h2>
 
