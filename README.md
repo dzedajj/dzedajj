@@ -4,7 +4,7 @@
 </h1>
 
 <p style="font-size:16px; max-width:720px; line-height:1.7; color:#333;">
- I’m a frontend developer with over 7 years of experience building modern, scalable web applications with a strong focus on performance, usability, and maintainability. I specialize in creating clean, intuitive user interfaces that provide a seamless experience across devices and platforms.
+ I’m a frontend developer with multiple years of experience building modern, scalable web applications with a strong focus on performance, usability, and maintainability. I specialize in creating clean, intuitive user interfaces that provide a seamless experience across devices and platforms.
 
 Throughout my career, I’ve worked extensively with modern JavaScript ecosystems, continuously adapting to new tools and best practices while maintaining a solid foundation in core web technologies. I care deeply about code quality, accessibility, and delivering products that not only look great but also perform efficiently under real-world conditions.
 
